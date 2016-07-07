@@ -6,4 +6,4 @@ The ANN is able to perform the detection of logical operations, such as XOR, AND
 Implements both feedforward and backpropagation. The project can be summarized as below:
 ![Alt text](/report/figures/blk_d_new.png?raw=true "Optional Title")
 
-It is part of a final project for MC613, Digital Circuits Laboratory, a discipline at Unicamp.
+It is part of a final project for MC613, Digital Circuits Laboratory, a discipline at Unicamp. It was done with @isadorasophia
